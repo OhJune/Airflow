@@ -30,6 +30,7 @@
 https://oh-um.tistory.com/29
 
 ### 5) FastAPI 모델 저장
-> fastapi에 python 파일 실행 시키기 (https://github.com/OhJune/Client-Django-FastAPI) 
+> fastapi에 python 파일 실행 시키기 (https://github.com/OhJune/Client-Django-FastAPI)
+
       5-1. python파일 내용: 구글 버킷에 있는 모델 저장하기 
       5-2. gcp fastapi vm인스턴스에 SSH connector 등록 후 통신
